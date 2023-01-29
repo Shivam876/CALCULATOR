@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
+html, body {
+  height: 100%;
+  background: #1e1e1e;
+  width: 100%;
+  font-family: 'Roboto', sans-serif; 
+}
+.text-center{
+  color: white;
+}
+.button{
+  width: 78px;
+  font-size: 29px;
+  color: white;
+  padding: 20px;
+  margin: 0 3px;
+  background: rgb(87, 87, 87);
+  border: 0px solid black;
+  border-radius: 40px;
+  cursor: pointer;
+}
+.button:hover{
+  background: green;
+}
+.border{
+  border: 2px solid white;
+}
+ /* .sol{
+  width: 78px;
+  font-size: 29px;
+  color: white;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 40px;
+  cursor: pointer;
+  background: #3d505a;
+}
+.clear{
+  width: 78px;
+  font-size: 29px;
+  color: white;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 40px;
+  cursor: pointer;
+  background: rebeccapurple;
+}
+.equal{
+  width: 78px;
+  font-size: 29px;
+  color: white;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 40px;
+  cursor: pointer;
+  background: #1c646e;
+}  */
+
+.row{
+  margin: 8px 0;
+}
+.row input{
+  width: 350px;
+  height: 70px;
+  background: rgb(44, 54, 50);
+  color: rgb(0, 0, 0);
+  font-size: 70px;
+    margin: 0;
+    padding: 10px 0px;
+    /* border: 2px solid black; */
+    border-radius: 5px;
+}
